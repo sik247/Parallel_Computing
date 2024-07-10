@@ -32,7 +32,7 @@ After all processes have finished checking their ranges, they send their results
 This program uses the MPI_Wtime function to measure the elapsed time for the prime finding task. This function returns the time in seconds since an arbitrary time in the past. The actual time it returns is not important; what matters is the difference between the times at the start and end of the task, which gives the elapsed time.
 
 
-```
+
 
 # Lab 2 
 
